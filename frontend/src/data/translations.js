@@ -65,9 +65,17 @@ export const translations = {
       ctaTitle: "Ready to transform your agri-supply chain?",
       ctaDesc: "Join 1,200+ farmers and 85+ institutional buyers building resilient agricultural networks.",
       ctaButton: "Get Started Free",
-      viewLiveDemo: "View Hackathon Demo",
-      interactiveFlowTitle: "Complete Hackathon Interactive Journey",
+      viewLiveDemo: "View",
+      interactiveFlowTitle: "Complete Interactive Journey",
       interactiveFlowDesc: "Follow the end-to-end procurement journey from demand forecast to door delivery.",
+    },
+
+    // Farmer Nearby Demand
+    farmerDemand: {
+      title: "Nearby Buyer Demands",
+      subtitle: "Aggregate and fulfill direct procurement requirements from verified institutional buyers.",
+      viewDemandBtn: "View Demand",
+      offerSupplyBtn: "View Demand",
     },
 
     // Common / Actions
@@ -95,7 +103,7 @@ export const translations = {
       inTransit: "In Transit",
       delivered: "Delivered",
       loading: "Loading...",
-      demoNotice: "Hackathon Prototype Live Demo",
+      demoNotice: "Prototype Live Demo",
       prototypeLabel: "Illustrative prototype economics",
       confidence: "Confidence",
       date: "Date",
@@ -172,7 +180,7 @@ export const translations = {
       maxBudgetPlaceholder: "e.g., 30",
       aiForecastBanner: "AI Price Alert: Current mandi trend suggests fair clearing price is ₹21 - ₹24/kg.",
       findSuppliersBtn: "Find Best Suppliers",
-      autoFillDemo: "Fill Hackathon Demo Data (500 kg Tomato)",
+      autoFillDemo: "Fill Demo Data (500 kg Tomato)",
       calculatingMatches: "Matching nearest farmers & evaluating cold-chain routing...",
       validationError: "Please fill all required procurement specifications.",
     },
@@ -539,9 +547,17 @@ export const translations = {
       ctaTitle: "क्या आप अपनी कृषि आपूर्ति श्रृंखला को बदलने के लिए तैयार हैं?",
       ctaDesc: "1,200+ किसानों और 85+ संस्थागत खरीदारों के साथ मिलकर सशक्त कृषि नेटवर्क से जुड़ें।",
       ctaButton: "मुफ़्त शुरुआत करें",
-      viewLiveDemo: "हैकथॉन लाइव डेमो देखें",
-      interactiveFlowTitle: "संपूर्ण हैकथॉन इंटरएक्टिव यात्रा",
+      viewLiveDemo: "देखें",
+      interactiveFlowTitle: "संपूर्ण इंटरएक्टिव यात्रा",
       interactiveFlowDesc: "मांग पूर्वानुमान से लेकर अंतिम डिलीवरी तक की संपूर्ण खरीद प्रक्रिया को लाइव अनुभव करें।",
+    },
+
+    // Farmer Nearby Demand
+    farmerDemand: {
+      title: "निकटवर्ती खरीदार मांग",
+      subtitle: "सत्यापित संस्थागत खरीदारों से सीधे खरीद आवश्यकताओं को पूरा करें।",
+      viewDemandBtn: "मांग देखें",
+      offerSupplyBtn: "मांग देखें",
     },
 
     // Common / Actions
@@ -569,7 +585,7 @@ export const translations = {
       inTransit: "रास्ते में",
       delivered: "डिलीवर किया गया",
       loading: "लोड हो रहा है...",
-      demoNotice: "हैकथॉन प्रोटोटाइप लाइव डेमो",
+      demoNotice: "प्रोटोटाइप लाइव डेमो",
       prototypeLabel: "उदाहरणात्मक प्रोटोटाइप गणना",
       confidence: "सटीकता",
       date: "तारीख",
@@ -645,7 +661,7 @@ export const translations = {
       maxBudgetPlaceholder: "उदा. 30",
       aiForecastBanner: "AI मूल्य अलर्ट: वर्तमान मंडी रुझान अनुसार उचित निकासी मूल्य ₹21 - ₹24/किग्रा है।",
       findSuppliersBtn: "सर्वश्रेष्ठ आपूर्तिकर्ता खोजें",
-      autoFillDemo: "हैकथॉन डेमो डेटा भरें (500 किग्रा टमाटर)",
+      autoFillDemo: "डेमो डेटा भरें (500 किग्रा टमाटर)",
       calculatingMatches: "निकटतम किसानों का मिलान और कोल्ड-चेन रूट का मूल्यांकन जारी...",
       validationError: "कृपया खरीद के सभी आवश्यक विवरण भरें।",
     },

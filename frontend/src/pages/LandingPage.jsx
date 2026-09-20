@@ -1073,7 +1073,7 @@ export const LandingPage = () => {
             </span>
             <h3 className="text-2xl sm:text-3xl font-black tracking-tight text-charcoal uppercase">
               {language === 'hi' 
-                ? '5 मिनट का संपूर्ण हैकथॉन लाइव वॉकथ्रू' 
+                ? '5 मिनट का संपूर्ण लाइव वॉकथ्रू' 
                 : 'Experience the 5-Minute Live Procurement Journey'}
             </h3>
             <p className="text-xs sm:text-sm text-charcoal/80 font-medium mt-1 max-w-xl">
@@ -1112,8 +1112,8 @@ export const LandingPage = () => {
           </div>
           <p style={{ color: 'rgba(247, 244, 234, 0.7)' }} className="text-[11px] font-mono">
             {language === 'hi' 
-              ? 'राष्ट्रीय स्तर का कृषि आपूर्ति श्रृंखला प्रोटोटाइप • स्मार्ट इंडिया हैकथॉन 2026'
-              : 'National Agricultural Supply Chain Prototype • Smart India Hackathon 2026'}
+              ? 'राष्ट्रीय स्तर का कृषि आपूर्ति श्रृंखला प्रोटोटाइप'
+              : 'National Agricultural Supply Chain Prototype'}
           </p>
         </div>
       </footer>

@@ -1,4 +1,4 @@
-// Deterministic demo scenario for KrishiFlow AI hackathon presentation
+// Deterministic demo scenario for KrishiFlow AI presentation
 // This file defines the exact demo flow data so it's consistent across reloads
 
 export const DEMO_SCENARIO = {
